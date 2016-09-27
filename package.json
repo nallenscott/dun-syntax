@@ -2,7 +2,7 @@
   "name": "dun-syntax",
   "theme": "syntax",
   "author": "Claudio d'Angelis <claudiodangelis@gmail.com>",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A greyscale syntax theme.",
   "keywords": [
     "syntax",
