@@ -2,6 +2,9 @@
   "name": "dun-syntax",
   "theme": "syntax",
   "author": "Claudio d'Angelis <claudiodangelis@gmail.com>",
+  "contributors": [
+    "Nathan Allen <nathan@infinitley.com>"
+  ],
   "version": "0.4.0",
   "description": "A greyscale syntax theme.",
   "keywords": [
