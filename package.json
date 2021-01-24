@@ -3,7 +3,7 @@
   "theme": "syntax",
   "author": "Claudio d'Angelis <claudiodangelis@gmail.com>",
   "contributors": [
-    "Nathan Allen <nathan@infinitley.com>"
+    "Nathan Allen <nallen@upsect.com>"
   ],
   "version": "0.5.0",
   "description": "A greyscale syntax theme.",
@@ -13,7 +13,7 @@
     "greyscale",
     "grayscale"
   ],
-  "repository": "https://github.com/claudiodangelis/dun-syntax",
+  "repository": "https://github.com/nallenscott/dun-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

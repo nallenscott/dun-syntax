@@ -1,3 +1,6 @@
+## 0.6.0
+* fixed repo url
+
 ## 0.5.0
 * fixed selectors for atom >= 1.13
 
